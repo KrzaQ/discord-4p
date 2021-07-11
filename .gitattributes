@@ -1,0 +1,6 @@
+* text eol=lf
+
+*.rb text
+*.json text
+*.md text
+
